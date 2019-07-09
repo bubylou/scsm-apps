@@ -1,2 +1,2 @@
 # scsm-apps
-Application yaml files used by SCSM
+Application files used by SCSM
